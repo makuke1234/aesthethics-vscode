@@ -1,0 +1,44 @@
+{
+    "name": "aesthethics",
+    "displayName": "Aesthethics",
+    "description": "An aesthethic light theme",
+    "version": "0.0.1",
+    "engines":
+	{
+        "vscode": "^1.63.0"
+    },
+    "categories":
+	[
+        "Themes"
+    ],
+	"keywords":
+	[
+		"theme",
+		"green",
+		"blue",
+		"red",
+		"aesthethic",
+		"aesthethics",
+		"vivid",
+		"vivid colors",
+		"quiet light"
+	],
+    "contributes":
+	{
+        "themes":
+		[
+            {
+                "label": "Aesthethics",
+                "uiTheme": "vs",
+                "path": "./themes/Aesthethics-color-theme.json"
+            }
+        ]
+    },
+	"license": "MIT License",
+	"repository":
+	{
+		"type": "git",
+		"directory": "https://github.com/makuke1234/aesthethics-vscode.git"
+	},
+	"homepage": "https://github.com/makuke1234/aesthethics-vscode/blob/master/README.md"
+}
