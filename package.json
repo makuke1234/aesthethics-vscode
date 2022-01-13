@@ -3,6 +3,7 @@
     "displayName": "Aesthethics",
     "description": "An aesthethic light theme",
     "version": "0.0.1",
+	"publisher": "makuke1234",
     "engines":
 	{
         "vscode": "^1.63.0"
